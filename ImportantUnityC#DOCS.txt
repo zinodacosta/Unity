@@ -1,0 +1,7 @@
+https://docs.unity3d.com/Manual/ScriptingImportantClasses.html
+
+https://docs.unity3d.com/ScriptReference/Vector3.html
+
+https://docs.unity3d.com/ScriptReference/Transform.html
+
+https://docs.unity3d.com/ScriptReference/Quaternion.html
